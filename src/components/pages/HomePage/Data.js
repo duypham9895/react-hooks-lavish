@@ -41,9 +41,9 @@ export const homeObjThree = {
 };
 
 export const homeObjFour = {
-    lightBg: true,
-    lightText: false,
-    lightTextDesc: false,
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
     topLine: "DATA ANALYTICS",
     headline: "Every transaction is stored on our secure cloud database",
     description:
